@@ -10,6 +10,9 @@ Claude transcript root: /home/li/.claude/projects
 NixBuilder: prometheus.goldragon.criome
 Reference skill collections: /git/github.com/obra/superpowers, /git/github.com/anthropics/skills
 Repository root: /git
+Primary root: /home/li/primary
+Public Field repository: /git/github.com/LiGoldragon/field
+Primary Next aspect directory: /git/github.com/LiGoldragon/primary-next/aspects
 Standards: /git/github.com/LiGoldragon/standards
 The system: /git/github.com/LiGoldragon/CriomOS
 The user environment: /git/github.com/LiGoldragon/CriomOS-home

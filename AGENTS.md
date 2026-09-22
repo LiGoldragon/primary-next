@@ -21,6 +21,15 @@ Primary is always committed: commit and push what you edited before
 going idle. Dirty changes found in the tree are committed first, as
 their own commit.
 
+## Primary Next
+
+This repository begins at Primary's root commit and keeps the inherited
+`AGENTS.md`, `SKILL_VARIABLES.md`, and `NON_MANAGEMENT_AGENTS.md` as the
+instruction path for workers. `aspects/field`, `aspects/psyche`, and
+`aspects/mind` are writable local symlinks to their public checkouts. They are
+not read-only mounts. Generated skill trees remain inherited evidence and must
+not be edited here. Primary Next has no native main-flow readiness claim.
+
 ## Psyche
 
 Load the `psyche` skill. If your work touches a topic the psyche may
